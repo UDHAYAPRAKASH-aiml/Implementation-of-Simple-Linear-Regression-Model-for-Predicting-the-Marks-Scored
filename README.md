@@ -72,6 +72,12 @@ print("RMSE= ",rmse)
 ## Output:
 ![WhatsApp Image 2025-03-06 at 12 58 38_e48b2d91](https://github.com/user-attachments/assets/e4845f35-6e8b-4466-a0de-eed530ce6cf4)
 ![WhatsApp Image 2025-03-06 at 12 59 24_d9f7457d](https://github.com/user-attachments/assets/2c61e859-672c-4a05-a792-a8e3eb4e17d4)
+![image](https://github.com/user-attachments/assets/853ac026-224a-4fe3-b775-b9c03356c7f7)
+![image](https://github.com/user-attachments/assets/43330dfa-84cb-4412-b2d4-858865acd00a)
+![image](https://github.com/user-attachments/assets/cee9fee4-7173-4e97-ac86-151191fd834b)
+```
+
+
 
 
 
